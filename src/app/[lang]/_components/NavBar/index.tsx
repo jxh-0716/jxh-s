@@ -19,7 +19,7 @@ export default function NavBar ({data}: NavBarProps) {
             </div>
     
             <div className="hidden mr-3 space-x-4 lg:flex nav__item items-center">
-              <Link href="/ch">Ch</Link>
+              <Link href="/zh">Ch</Link>
               <Link href="/en">In English</Link>
               <Link
                 href="#contact"
